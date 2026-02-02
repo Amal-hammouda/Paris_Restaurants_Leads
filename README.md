@@ -3,6 +3,8 @@
 - **Data Extracted:** Name, Phone, Rating, Website, and Address.
 - **Multiple Formats:** Instant export to **CSV, Excel, and PDF**.
 - **Fast & Reliable:** Powered by Python and SerpApi.
+- ### 📊 Sample Data Preview
+![Excel Sample](excel_sample.png.png)
 
 ## 🛠️ How to use
 1. Install requirements: `pip install requests pandas openpyxl fpdf`
