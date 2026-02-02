@@ -1,2 +1,10 @@
-# Paris_Restaurants_Leads
-Python script to scrape and extract 100+ restaurant leads from Paris using SerpApi. Generates CSV, Excel, and PDF reports.
+## 🚀 Features
+- **Scrapes 100+ Restaurants** automatically.
+- **Data Extracted:** Name, Phone, Rating, Website, and Address.
+- **Multiple Formats:** Instant export to **CSV, Excel, and PDF**.
+- **Fast & Reliable:** Powered by Python and SerpApi.
+
+## 🛠️ How to use
+1. Install requirements: `pip install requests pandas openpyxl fpdf`
+2. Add your SerpApi Key to `main.py`.
+3. Run the script: `python main.py`
